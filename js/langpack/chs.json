@@ -1,0 +1,21 @@
+{
+	"token": {
+		"Download":"下载",
+		"Voting":"投票系统",
+		"Features":"功能",
+		"Contact Us":"联络我们",
+		"Plan Easier. Faster. Together.":"一起、更快、更易，规划行程。",
+		"Trigether trip planning app give you the world best scheduling experience":"我们为你提最佳的旅游计画体验！",
+		"Download Trigether!":"立即下载 Trigether!",
+
+		"This is a long text test, to see rather it can transform too.":"이것은 오랜 텍스트 테스트로, 너무 변형 될 수 있습니다.",
+	  	"http://www.ioling.org/images/flags/uk.gif": "http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Flag_of_Thailand.svg/1280px-Flag_of_Thailand.svg.png",
+		"http://www.google.com/": "http://www.yahoo.com/",
+		"lorem" : "ตรงกันข้ามกับความเชื่อที่นิยมกัน Lorem Ipsum ไม่ได้เป็นเพียงแค่ชุดตัวอักษรที่สุ่มขึ้นมามั่วๆ แต่หากมีที่มาจากวรรณกรรมละตินคลาสสิกชิ้นหนึ่งในยุค  ..."
+	},
+	"regex": [
+		["Budget", "งบประมาณ"],
+		["^Something at start of text", ""],
+		["This will be case insensitive", "i", ""]
+	]
+}
